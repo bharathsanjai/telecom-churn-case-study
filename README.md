@@ -33,7 +33,7 @@ In this competition, our goal is to build a machine learning model that is able 
 
 ## Technologies Used
 - Python 3.9
-- scikit-learn 1.0.2
+- scikit-learn 1.2.2
 - stats model 0.13.2
 
 
