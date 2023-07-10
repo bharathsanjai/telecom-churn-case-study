@@ -15,7 +15,20 @@ For many incumbent operators, retaining high profitable customers is the number 
 In this competition, our goal is to build a machine learning model that is able to predict churning customers based on the features provided for their usage.
 
 ## Conclusions
-- 
+- Most Important Predictors of churn
+        -monthly_3g_8           
+        -monthly_2g_8       
+        -monthly_2g_6       
+        -sachet_2g_6_0      
+        -sachet_3g_6_0      
+        -sachet_2g_7_0      
+        -total_rech_num_8   
+        -total_rech_num_7   
+        -std_og_t2f_mou_8   
+        -total_rech_num_6    
+        -loc_ic_t2f_mou_8   
+        -sachet_2g_8_0      
+        -loc_og_t2c_mou_8
 
 
 ## Technologies Used
