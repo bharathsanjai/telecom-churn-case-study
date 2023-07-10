@@ -1,4 +1,4 @@
-# 
+# Telecom Churn Group Case Study
 
 ## Table of Contents
 * [Problem Statement](#Problem-Statement)
